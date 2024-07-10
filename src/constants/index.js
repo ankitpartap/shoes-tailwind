@@ -111,8 +111,9 @@ export const footerLinks = [
     {
         title: "Get in touch",
         links: [
-            { name: "customer@nike.com", link: "mailto:customer@nike.com" },
-            { name: "+92554862354", link: "tel:+92554862354" },
+            { name: "Ankit Partap", link: "https://ankitpartap.netlify.app/" },
+            { name: "ankitpartap24@gmail.com", link: "mailto:ankitpartap24@gmail.com" },
+            { name: "+918558050544", link: "tel:+918558050544" },
         ],
     },
 ];
